@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\Games\Project3\Source.cpp(19,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+E:\Games\Project3\Source.cpp(23,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\Games\Project3\Source.cpp(6,12): warning C4101: c: неиспользованная локальная переменная
+  Project3.vcxproj -> E:\Games\Project3\Debug\Project3.exe
